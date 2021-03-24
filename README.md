@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is José Queiroz
+### Hi there 👋 I'm José Queiroz
 
 About me:
 - 🔭 I’m currently working on SmartFoods and Pawcare
